@@ -1,0 +1,33 @@
+{
+    "name": "react-native-svg-animated-placeholder",
+    "version": "1.0.0",
+    "description": "Animated linear gradient for React Native Svg",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cattuan/react-native-svg-animated-placeholder.git"
+    },
+    "author": "Cat Tuan",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cattuan/react-native-svg-animated-placeholder/issues"
+    },
+    "homepage": "https://github.com/cattuan/react-native-svg-animated-placeholder",
+    "keywords": [
+        "react-native-svg",
+        "react",
+        "svg",
+        "animated",
+        "animation",
+        "linear",
+        "gradient"
+    ],
+    "peerDependencies": {
+        "react": "16.5.0",
+        "react-native": "0.57.2",
+        "prop-types": "^15.5.10"
+    },
+    "dependencies": {
+        "d3-interpolate": "^1.1.5",
+        "react-native-svg": "^7.2.0"
+    }
+}
