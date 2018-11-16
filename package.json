@@ -22,12 +22,14 @@
         "gradient"
     ],
     "peerDependencies": {
-        "react": "16.5.0",
-        "react-native": "0.57.2",
-        "prop-types": "^15.5.10"
+        "peerDependencies": {
+        "prop-types": "*",
+        "react": "*",
+        "react-native": "*",
+        "react-native-svg": "*"
+  },
     },
     "dependencies": {
-        "d3-interpolate": "^1.3.2",
-        "react-native-svg": "^8.0.8"
+        "d3-interpolate": "^1.3.2"
     }
 }
